@@ -78,7 +78,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url("download.png");
+    background-image: url("images/download.png");
     background-size: cover;
     background-position: center;
      top: 12px;
@@ -89,7 +89,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url("download.jpg");
+    background-image: url("images/download.jpg");
     background-size: 28px;
 }
 ul li span{
