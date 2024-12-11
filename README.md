@@ -8,7 +8,7 @@ Projects
 Project 1: Interactive To-Do List
 Description: A dynamic to-do list application with JavaScript functionality. Add, edit, and delete tasks.
 
-Live Demo: coming soon!
+Live Demo: https://project.formexpress.freewebhostmost.com/
 
 Project 2: Netflix UI Clone
 Description: A sleek and responsive clone of Netflix's user interface. This project demonstrates advanced CSS techniques and HTML structuring.
